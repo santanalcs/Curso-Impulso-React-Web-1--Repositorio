@@ -5,3 +5,9 @@ Bootcamp – Impulso React Web Developer
 Descrição: 
 Criação e Versionamento, na prática, passo a passo, utilizando o Sistema de Gerenciamento e Versionamento de Projetos – Git, 
 aliado ao Ambiente de Colaboração e Repositório de Dados – GitHub.
+
+Documento foi criado e disponibilizado no repositório GitHub.
+Passo 1 - Foi criada a pasta e inicializada com o comando > git init.
+Passo 2 - Foi criado o repositório no GitHub.
+
+
