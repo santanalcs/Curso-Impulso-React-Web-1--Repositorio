@@ -9,5 +9,6 @@ aliado ao Ambiente de Colaboração e Repositório de Dados – GitHub.
 Documento foi criado e disponibilizado no repositório GitHub.
 Passo 1 - Foi criada a pasta e inicializada com o comando > git init.
 Passo 2 - Foi criado o repositório no GitHub.
+Passo 3 - Informei o repositório remoto criado para a pasta local com o comando git remote add.
 
 
