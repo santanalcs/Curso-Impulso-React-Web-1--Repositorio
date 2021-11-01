@@ -14,6 +14,8 @@ Passo 4 - Em seguida utilizei o comando > git add * < para registrar e informar 
 Passo 5 - Neste, utilizei o comando > git commit < tornamdo disponível todas as alterações realizadas na pasta/arquivo.
 Passo 6 - Por fim, enviei todo o pacote processado no repositório local, com os passso 3, 4 e 5, para o repositório remoto
 	  no GitHub com o comando > git push.
+
+Os demais versionamentos de edição deste documento foram executados com os passos 4, 5 e 6, listados acima.
  
 
 
